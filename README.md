@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abdalla.fadle2001@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/19T-qBGJpqRURn8s0fdPWtZ7QFuGDacDs/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1VfJPdaFUirb1-OyEmUi2rwaFZRWO48oN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

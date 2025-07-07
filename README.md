@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdalla2030](https://github.com/Abdalla2030)
 
-- 📫 How to reach me **abdalla.fadle2001@gmail.com**
+- 📫 How to reach me **abdalla.fadl.work@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1Kqp0e9JJE7QgIXi2iJgoUTuEu_TQlv16](https://drive.google.com/drive/u/0/folders/1Kqp0e9JJE7QgIXi2iJgoUTuEu_TQlv16)
 

@@ -78,11 +78,6 @@
 
 </p>
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla2030&layout=compact&cache_seconds=86400"
-    alt="abdalla2030"
-  />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla2030&layout=compact&cache_seconds=86400" alt="abdalla2030" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla2030&" alt="abdalla2030" /></p>

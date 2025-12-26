@@ -78,12 +78,26 @@
 
 </p>
 
-
+<!-- Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla2030&layout=compact" alt="abdalla2030" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla2030&layout=compact&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
+<!-- GitHub Stats -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla2030" alt="abdalla2030" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdalla2030&show_icons=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
+<!-- GitHub Streak -->
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla2030"
+    alt="GitHub Streak"
+  />
+</p>

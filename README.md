@@ -79,5 +79,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla2030&show_icons=true&locale=en&layout=compact" alt="abdalla2030" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla2030&show_icons=true&locale=en" alt="abdalla2030" /></p> 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla2030&" alt="abdalla2030" /></p>

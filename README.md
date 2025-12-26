@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=abdalla2030&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla2030" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdalla2030](https://github.com/Abdalla2030)
-
+- 🎥 Project demos: https://www.youtube.com/@AbdallaFadlProjects
+  
 - 📫 How to reach me **abdalla.fadl.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -78,6 +78,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla2030&show_icons=true&locale=en&layout=compact" alt="abdalla2030" /></p> 
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla2030&layout=compact&cache_seconds=86400"
+    alt="abdalla2030"
+  />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla2030&" alt="abdalla2030" /></p>

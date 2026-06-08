@@ -72,13 +72,5 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalla2030&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdalla2030&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com/?user=Abdalla2030" alt="GitHub Streak" />
 </p>
